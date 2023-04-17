@@ -6,7 +6,5 @@
   line-height: 14px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  width: 158px;
-  height: 14px;
-  display: flex;
+  text-align: left;
 }

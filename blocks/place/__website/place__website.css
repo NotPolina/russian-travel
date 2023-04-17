@@ -3,4 +3,5 @@
   flex-direction: column;
   justify-content: end;
   grid-area: "website";
+  margin: 0;
 }
