@@ -26,5 +26,5 @@
 * Ссылка на статьи о путешествии ["На электричках до Байкала"](https://stampsy.com/na-elektrichkakh-do-baikala)
 
 ## Контакты
-Ссылка на [GitHub Pages](github-pages )
+Ссылка на [GitHub Pages](https://notpolina.github.io/russian-travel/)
 
