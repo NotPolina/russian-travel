@@ -6,16 +6,34 @@
   gap: 16px;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1280px){
   .photo-grid {
     margin: 0 48px 0 48px;
-    gap: 14px;
+    justify-items: center;
+  }
+}
+
+@media screen and (max-width: 1000px){
+  .photo-grid {
+    margin: 0 auto;
+    grid-template-columns: repeat(2, auto);
+    justify-content: center;
   }
 }
 
 @media screen and (max-width: 768px){
   .photo-grid {
     margin: 0 24px 0 24px;
+  }
+}
+
+@media screen and (max-width: 629px) {
+  .photo-grid {
+    margin: 0 auto;
+    gap: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 }
 
