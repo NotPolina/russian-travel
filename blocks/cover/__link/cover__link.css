@@ -4,7 +4,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 1184px;
-  min-height: 740px;
+  margin-right: 740px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -39,7 +39,7 @@
 
 @media screen and (max-width: 768px){
   .cover__link {
-    max-height: 480px;
+    min-height: 480px;
   }
 }
 
